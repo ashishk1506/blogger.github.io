@@ -1,0 +1,160 @@
+.headline
+{
+    font-size: x-large;
+    margin-top: 20px;
+   
+}
+
+.font
+{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: large;
+
+}
+
+.text
+{
+    font-size:large;
+}
+.font1
+{
+    font-family: 'Baloo 2', cursive;
+}
+.font2
+{
+    font-family: 'Ubuntu', sans-serif;
+}
+.border1
+{
+    border-color: 2px;
+}
+.btn1
+{
+    display: inline-block;
+    border-radius: 50%;
+    background-color:rgba(240, 209, 209, 0.719) ;
+    box-shadow: 0 5px 15px -5px #00000070;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    font-size: larger;
+  
+}
+.btn1 i
+{  
+   margin: 18px;
+   font-size: 20px;
+   color:white ;
+
+}
+.first:hover
+{
+    background-color:#3b5998;
+    transition: 0.5s;
+    transform: translateY(5px);
+
+}
+.second:hover
+{
+   background-color: #0e76a8 ;
+   transition: 0.5s;
+   transform: translateY(5px);
+
+}
+.third:hover
+{
+   background-color:red ;
+   transition: 0.5s;
+   transform: translateY(5px);
+
+}
+.fourth:hover
+{
+   background-color: green ;
+   transition: 0.5s;
+   transform: translateY(5px);
+
+}
+.fifth:hover
+{
+   background-color:#00acee;
+   transition: 0.5s;
+   transform: translateY(5px);
+
+}
+
+.btn1 i:hover
+{
+color: white;
+}
+
+.btn2
+{  
+    color:palevioletred;
+    font-size: 20px;
+    text-align: center;
+    transition: 1s;
+}
+
+.social
+{
+    display: inline-block;
+    font-size: 20px;
+    background-color: rgba(240, 209, 209, 0.719);
+    border-radius: 50%;
+    box-shadow:0 5px 15px -5px #00000070 ;
+    width: 40px;
+    height: 40px;
+    margin:18px;
+    margin-left: 10px;
+    transition: 1s;
+  
+}
+
+.social a i
+{
+    
+   margin: 30%;
+    color: white;
+}
+.kgp
+{
+    display: inline-block;
+    font-size: 20px;
+    background-color: rgba(240, 209, 209, 0.719);
+    border-radius: 50%;
+    box-shadow:0 5px 15px -5px #00000070 ;
+    width: 40px;
+    height: 40px;
+    margin:10px;
+    transition: 1s;
+   margin-left: 4px;
+}
+
+.kgp a i
+{
+    
+   margin: 30%;
+    color: white;
+}
+.caption_color
+{
+    color: rgb(42, 147, 165);
+    font-family: 'Comic Neue', cursive;
+}
+.menubar
+{
+    background-color:#17a2b8;
+    box-shadow: 0 5px 20px -5px #00000070;
+    color:white;
+}
+.menubar:hover
+{  
+    transition: 0.5s;
+    box-shadow: 0 0px 0px -5px #00000070;
+   
+}
+.active
+{
+    box-shadow: 0 0px 0px -5px #00000070;
+}
